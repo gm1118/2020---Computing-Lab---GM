@@ -1,3 +1,9 @@
+This is the collection of code I used in the 2020 Year 2 Computing Lab at University. 
+The code was intended to utilise OOP in Python to simulate a thermodynamic system using 'balls' in a container
+This was my first proper experience coding a project, and the techniques used are improved upon for later projects
+The rest of this file is the readme I submitted along with my code for this project's lab report
+
+
 To create a Ball object:
 Import Ball as B
 x=B.Ball()
