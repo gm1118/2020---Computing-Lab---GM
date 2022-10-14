@@ -1,0 +1,15 @@
+To create a Ball object:
+Import Ball as B
+x=B.Ball()
+
+To create a Simulation object:
+Import Simulation as S
+y=S.Simulation()
+
+File Submitted:
+Ball.py             (Ball class module) 
+Simulation.py       (Simulation class module)
+TestingScript.py    (Script containing my responses and code for all Project B Tasks except 14, which I did not complete)
+ExperimentScript.py (Script for recreating data and figures used in report, although due to the randomness of the simulation, it is unlikely they can be perfectly recreated)
+
+
