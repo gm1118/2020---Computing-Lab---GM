@@ -1,5 +1,5 @@
-from GM1118_Code import Ball as B
-from GM1118_Code import Simulation as S
+import Ball as B
+import Simulation as S
 """
 Task 1:
 This is solved within the time_to_collision() method of Ball
