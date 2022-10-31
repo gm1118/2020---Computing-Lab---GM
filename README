@@ -1,7 +1,9 @@
 This is the collection of code I used in the 2020 Year 2 Computing Lab at University. 
 The code was intended to utilise OOP in Python to simulate a thermodynamic system using 'balls' in a container
 This was my first proper experience coding a project, and the techniques used are improved upon for later projects
+Please note that this testing and experiment scripts are designed for use within the Spyder IDE which amongst other attributes, uses #%% as a section break.
 The rest of this file is the readme I submitted along with my code for this project's lab report
+
 
 
 To create a Ball object:
