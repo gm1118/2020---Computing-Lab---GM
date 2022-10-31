@@ -1,4 +1,4 @@
-from GM1118_Code import Simulation as S
+import Simulation as S
 s1=S.Simulation()
 s1.run(1000,animate=True) # figure 1 in report
 #%%
